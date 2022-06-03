@@ -4,3 +4,5 @@
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
 
+-  <a href=””><img src=”link da imagem”></img></a>?
+-  <a href=””><img src=”link da imagem”></img></a>
